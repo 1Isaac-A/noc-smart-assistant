@@ -1,0 +1,30 @@
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos temporarios
+*.log
+*.tmp
+
+# Configuracoes locais
+.env
+.env.*
+!.env.example
+
+# Configuracoes do editor
+.vscode/
+.idea/
+
+# Configuracoes locais do Streamlit
+.streamlit/secrets.toml
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db

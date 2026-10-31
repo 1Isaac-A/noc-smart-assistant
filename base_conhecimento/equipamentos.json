@@ -1,0 +1,40 @@
+
+{
+  "documentos": [
+    {
+      "id": "EQ001",
+      "titulo": "ONU",
+      "palavras_chave": [
+        "onu",
+        "optical network unit",
+        "unidade de rede optica"
+      ],
+      "conteudo": "ONU significa Optical Network Unit. E uma unidade de rede optica utilizada para conectar usuarios a infraestrutura optica do provedor. Em redes PON, comunica-se com a OLT por meio da rede de distribuicao optica. Recebe e transmite sinais opticos e disponibiliza interfaces para comunicacao de dados."
+    },
+    {
+      "id": "EQ002",
+      "titulo": "ONT",
+      "palavras_chave": [
+        "ont",
+        "optical network terminal",
+        "terminal de rede optica"
+      ],
+      "conteudo": "ONT significa Optical Network Terminal. E um terminal de rede optica localizado nas instalacoes do assinante. Realiza a terminacao da conexao optica e disponibiliza interfaces de comunicacao. Dependendo do modelo, pode incluir Ethernet, roteamento e Wi-Fi."
+    },
+    
+
+{
+  "id": "EQ003",
+  "titulo": "Diferenca entre ONU e ONT",
+  "palavras_chave": [
+    "onu e ont",
+    "ont e onu",
+    "diferenca entre onu e ont",
+    "compare onu e ont"
+  ],
+  "conteudo": "ONU significa Optical Network Unit (Unidade de Rede Optica). ONT significa Optical Network Terminal (Terminal de Rede Optica). ONU e um termo mais amplo para uma unidade de rede optica. ONT normalmente designa o terminal optico localizado nas instalacoes do assinante. Os termos podem ser utilizados de maneira intercambiavel em determinadas redes e documentacoes. A distincao depende da arquitetura e da terminologia adotada.",
+  "resposta_validada": "ONU significa Optical Network Unit, enquanto ONT significa Optical Network Terminal. ONU e um termo mais amplo para uma unidade de rede optica. ONT normalmente se refere ao terminal optico localizado nas instalacoes do assinante. Dependendo da arquitetura e da documentacao, os termos podem ser utilizados de forma intercambiavel."
+}
+
+  ]
+}
