@@ -248,3 +248,20 @@ O sistema utiliza uma base de conhecimento local e não exige credenciais ou ace
 ## 👨‍💻 Sobre o projeto
 
 Desenvolvido como projeto de estudo e portfólio para aplicar conceitos de programação Python, Inteligência Artificial Generativa, recuperação de conhecimento, avaliação de respostas e desenvolvimento de aplicações interativas.
+
+
+## Demonstração da aplicação
+
+O NOC Smart Assistant possui uma interface de conversação desenvolvida com Streamlit, integrada a uma base de conhecimento técnico e a um modelo de IA generativa executado localmente.
+
+### 1. Interface e consulta técnica
+
+![Interface e consulta técnica do NOC Smart Assistant](imagens/demo-chatP1.png)
+
+### 2. Resposta baseada na documentação
+
+![Resposta baseada na documentação técnica](imagens/demo-chatP2.png)
+
+### 3. Tratamento de perguntas sem documentação
+
+![Tratamento de perguntas fora da base de conhecimento](imagens/demo-chatP3.png)
